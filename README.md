@@ -2,7 +2,7 @@
 
 > Most Luscious PC Builds in the Universe!
 
-Custom PC image ranking application written in React, JSX & ExpressJS. All image hashes and text reside on the Ethereum Blockchain, while the images and code are hosted on Interplanetary Filesystem (IPFS), making this a *Fully Decentralized, Unstoppable, Censorship Resistant* application.
+Custom PC image ranking application written in React and powered by Solidity Smart Contracts. All image hashes and text reside on the Ethereum Blockchain, while the images and code are hosted on Interplanetary Filesystem (IPFS), making this a *Fully Decentralized, Unstoppable, Censorship Resistant* application. TurquoiseMelon is a Nodejs application built using front-end libraries like react, web3.js and ethers.js to interface with Smart Contracts and ExpressJS back end to provide a robust, decentralized web api. I write and perform unit tests with frameworks like Truffle and Waffle. I've used the Openzeppelin library to bring features and standardization to testnet and mainnet contracts.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
