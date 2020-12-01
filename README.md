@@ -1,6 +1,6 @@
 ## TurquoiseMelon
 
-Image ranking & tipping platform written in ReactJS, powered by Solidity Smart Contracts. All image-hashes and user-text reside on the Ethereum Blockchain, while the images themselves and code are hosted on Interplanetary Filesystem (IPFS), making it a *Fully Decentralized, Unstoppable, Censorship Resistant* webapp. TurquoiseMelon is a NodeJS distributed application (Dapp) built using front-end libraries like ReactJS, Web3JS & Walletconnect to interface with Smart Contracts and ExpressJS backend to provide a robust, decentralized web api. Ganache, Truffle & Remix IDE were used to develop and test on local blockchains prior to testnet & mainnet Ethereum deployment.
+Image ranking & tipping platform written in ReactJS, powered by Solidity Smart Contracts. All image-hashes and user-text reside on the Ethereum Blockchain, while the images themselves and code are hosted on Interplanetary Filesystem (IPFS), making it a _Fully Decentralized, Unstoppable, Censorship Resistant_ webapp. TurquoiseMelon is a NodeJS distributed application (Dapp) built using front-end libraries like ReactJS, Web3JS & Walletconnect to interface with Smart Contracts and ExpressJS backend to provide a robust, decentralized web api. Ganache, Truffle & Remix IDE were used to develop and test on local blockchains prior to testnet & mainnet Ethereum deployment.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
