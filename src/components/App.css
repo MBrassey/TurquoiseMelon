@@ -1,0 +1,107 @@
+/* Styles go here */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Gruppo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Iceland&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Wallpoet&display=swap");
+
+.body {
+  background-color: #a9a9a9;
+}
+
+.logo {
+  margin-top: 46px;
+  padding-bottom: 0%;
+}
+
+.navbar {
+  font-family: "Iceland", cursive;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  background-color: rgba(79, 250, 237, 0.1);
+}
+
+.navbar-brand {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #2de1f3;
+}
+
+.slogo {
+  font-family: "Iceland", cursive;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.eth {
+  margin-bottom: 4px;
+  margin-left: 0px;
+}
+
+.btn {
+  font-family: "Wallpoet", cursive;
+  cursor: pointer;
+  border: 1px solid #4ffaed;
+  background-color: #006ee4;
+  color: #4ffaed;
+  font-size: 1.5em;
+  font-weight: bold;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+}
+
+.btn-sm {
+  color: #65c631;
+}
+
+.btn:hover {
+  color: #0457ca;
+  background-color: #4ffaed;
+}
+
+.input {
+  font-family: "Iceland", cursive;
+  border: 1px solid #4ffaed;
+  font-size: 1.5em;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+  max-width: 700px;
+}
+
+.top {
+  background-color: #4ffaed;
+}
+
+.card-props {
+  font-family: "Iceland", cursive;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.6);
+  border: 1px solid #4ffaed;
+}
+
+.card-body {
+  background-color: #ccfffc;
+}
+
+.description {
+  color: #0457ca;
+  font-size: 1.5em;
+}
+
+.tips {
+  font-family: "Iceland", cursive;
+  font-weight: bolder;
+  font-size: 1.7em;
+}
+
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  margin-bottom: 9px;
+}
+
+.upload-btn-wrapper input[type="file"] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  cursor: pointer;
+}
