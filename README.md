@@ -47,7 +47,10 @@ Image ranking & tipping platform written in ReactJS, powered by Solidity Smart C
 [<img src="src/img/Preview.jpg">](https://TheDevBlog-mbrassey.herokuapp.com/)
 
 > Setup
-> [<img src="src/img/Preview.gif">](https://TheDevBlog-mbrassey.herokuapp.com/)
+> [<img src="src/img/Setup.png>](https://TheDevBlog-mbrassey.herokuapp.com/)
+
+> Tests
+> [<img src="src/img/Tests.png">](https://TheDevBlog-mbrassey.herokuapp.com/)
 
 #### Questions
 
