@@ -6,9 +6,10 @@ Image ranking & tipping platform written in ReactJS, powered by Solidity Smart C
 
 #### Issues
 
-- [x] [setup server file](https://github.com/mbrassey/FinanceTracker/issues/1)
-- [x] [feature/modelAssc](https://github.com/mbrassey/FinanceTracker/issues/2)
-- [x] [added user route](https://github.com/mbrassey/FinanceTracker/issues/3)
+- [x] [Initialize Application](https://github.com/mbrassey/TurquoiseMelon/issues/1)
+- [x] [Deploy to Local Blockchain & Test Smart Contract](https://github.com/mbrassey/TurquoiseMelon/issues/2)
+- [x] [Add Main Components & Stylize](https://github.com/mbrassey/TurquoiseMelon/issues/3)
+- [x] [Enhance Views w/React State & Extend Web3 Callbacks](https://github.com/mbrassey/TurquoiseMelon/issues/4)
 
 #### Table of Contents
 
@@ -24,33 +25,27 @@ Image ranking & tipping platform written in ReactJS, powered by Solidity Smart C
 
     node
     npm
+    ganache-cli
 
 #### Installation
 
     npm i
-    npm run migrate
+    truffle test
+    truffle migrate
 
 #### Usage
 
-    Usage: node bench.js [ -h | -v | -l | -a ]
-    or: npm start
+    npm run start
 
-    [options]
+<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://TurquoiseMelon-mbrassey.herokuapp.com/">webapplication</a></p></h6>
 
-           -h          Display this message.
-           -v          Show version.
-           -l          Show license info.
-           -a          What is TurquoiseMelon?
-
-<h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://TheDevBlog-mbrassey.herokuapp.com/">webapplication</a></p></h6>
-
-[<img src="src/img/Preview.jpg">](https://TheDevBlog-mbrassey.herokuapp.com/)
+[<img src="src/img/Preview.jpg">](https://TurquoiseMelon-mbrassey.herokuapp.com/)
 
 > Setup
-> [<img src="src/img/Setup.png>](https://TheDevBlog-mbrassey.herokuapp.com/)
+> [<img src="src/img/Setup.png>](https://TurquoiseMelon-mbrassey.herokuapp.com/)
 
 > Tests
-> [<img src="src/img/Tests.gif">](https://TheDevBlog-mbrassey.herokuapp.com/)
+> [<img src="src/img/Tests.gif">](https://TurquoiseMelon-mbrassey.herokuapp.com/)
 
 #### Questions
 
