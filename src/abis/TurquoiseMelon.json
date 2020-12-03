@@ -5654,10 +5654,16 @@
       "links": {},
       "address": "0x5CfB8bE9964732BC5cCF4427b5fDFBdb6982A96d",
       "transactionHash": "0x8f325095eca7f3c1c52bb0a0eb801b5d5ed33d2d971489bf4eb65f18eaa36393"
+    },
+    "1606820689328": {
+      "events": {},
+      "links": {},
+      "address": "0x1D4F43402faA97f1C8b64EB9EEc252B06143cc80",
+      "transactionHash": "0xe665988883e6b7ce046f7dfbc27a7d8732257c6b4f29c09c66d9fe2172090320"
     }
   },
   "schemaVersion": "3.0.2",
-  "updatedAt": "2020-12-01T04:44:14.852Z",
+  "updatedAt": "2020-12-01T11:05:31.787Z",
   "devdoc": {
     "methods": {}
   },

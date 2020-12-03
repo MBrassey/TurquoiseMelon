@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Identicon from "identicon.js";
-import small from "../Melon.png";
+import small from "../img/Melon.png";
 import "./App.css";
 
 class Navbar extends Component {
