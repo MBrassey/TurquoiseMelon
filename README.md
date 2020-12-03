@@ -44,10 +44,10 @@ Image ranking & tipping platform written in ReactJS, powered by Solidity Smart C
 
 <h6><p align="right">:cyclone: Click the image(s) below to view the live <a id="Screenshots" href="https://TheDevBlog-mbrassey.herokuapp.com/">webapplication</a></p></h6>
 
-[<img src="./src/img/Preview.png">](https://TheDevBlog-mbrassey.herokuapp.com/)
+[<img src="src/img/Preview.jpg">](https://TheDevBlog-mbrassey.herokuapp.com/)
 
 > Setup
-> [<img src="./src/img/Preview.gif">](https://TheDevBlog-mbrassey.herokuapp.com/)
+> [<img src="src/img/Preview.gif">](https://TheDevBlog-mbrassey.herokuapp.com/)
 
 #### Questions
 
